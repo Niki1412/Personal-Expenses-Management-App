@@ -1,0 +1,4 @@
+#Sat Jan 08 23:20:49 IST 2022
+base.0=/Users/dakshita/Documents/Apps/expenses_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
